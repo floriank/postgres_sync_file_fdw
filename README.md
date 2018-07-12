@@ -51,7 +51,7 @@ Requirements:
 $ mix phx.serve
 ```
 
-Then create the database (credentials are taken from env, as seen in the [./docker-compose.yml]).
+Then create the database (credentials are taken from env, as seen in the [docker-compose.yml](./docker-compose.yml)).
 
 ```
 $ mix ecto.setup
