@@ -2,7 +2,7 @@
 
 A demo repository showing an elixir application importing CSV files using PostgreSQL file_fdw.
 
-The application is written in [Elixir](https://elixir-lang.org) and demos the usage of [PostgreSQL file_fdw]() extension to synchronize a given CSV File (found in [./test/files/Company.csv]) with the services' own tables.
+The application is written in [Elixir](https://elixir-lang.org) and demos the usage of [PostgreSQL file_fdw]() extension to synchronize a given CSV File (found in [Company.csv](./test/files/Company.csv)) with the services' own tables.
 
 A more detailed guide on what is going on and why this is useful can be found in [my blog](https://floriank.github.io/post/the-steel-industry-file_fdw-and-postgres/).
 
